@@ -5,17 +5,16 @@ const navLinks = [
     type: "finder",
   },
   {
-    id: 3,
+    id: 2,
     name: "Contact",
     type: "contact",
   },
   {
-    id: 4,
+    id: 3,
     name: "Resume",
     type: "resume",
   },
 ];
-
 const navIcons = [
   {
     id: 1,
@@ -106,15 +105,15 @@ const techStack = [
   },
   {
     category: "Mobile",
-    items: ["React Native", "Expo"],
+    items: ["React Native", "Expo", "Flutter"],
   },
   {
     category: "Styling",
-    items: ["Tailwind CSS", "Sass", "CSS"],
+    items: ["Tailwind CSS", "CSS"],
   },
   {
     category: "Backend",
-    items: ["Node.js", "Express", "NestJS", "Hono"],
+    items: ["Node.js", "Express", "Python"],
   },
   {
     category: "Database",
@@ -132,28 +131,28 @@ const socials = [
     text: "Github",
     icon: "/icons/github.svg",
     bg: "#f4656b",
-    link: "https://github.com/JavaScript-Mastery-Pro",
+    link: "#",
   },
   {
     id: 2,
     text: "Platform",
     icon: "/icons/atom.svg",
     bg: "#4bcb63",
-    link: "https://jsmastery.com/",
+    link: "#",
   },
   {
     id: 3,
     text: "Twitter/X",
     icon: "/icons/twitter.svg",
     bg: "#ff866b",
-    link: "https://x.com/jsmasterypro",
+    link: "#",
   },
   {
     id: 4,
     text: "LinkedIn",
     icon: "/icons/linkedin.svg",
     bg: "#05b6f6",
-    link: "https://www.linkedin.com/company/javascriptmastery/posts/?feedView=all",
+    link: "#",
   },
 ];
 
