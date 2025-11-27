@@ -40,7 +40,7 @@ const Terminal = () => {
         </ul>
 
         <div className="footnote">
-          <p classname="">
+          <p className="">
             <Check size={20} /> 5 of 5 stacks loaded successfully (100%)
           </p>
 
